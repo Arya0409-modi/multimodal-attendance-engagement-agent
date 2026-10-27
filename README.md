@@ -2,13 +2,7 @@
 
 An AI-powered capstone project built as part of the Generative AI course.
 
-## Scenarios
-- **Automated Attendance Tracking**: Processes live or recorded video feeds to track participants based on sustained presence.
-- **Engagement & Session Dynamics Analysis**: Analyzes head pose, movement patterns, and audio activity to detect attention trends.
-- **AI-Driven Teaching Suggestions**: Provides context-aware suggestions for instructors.
-- # Multimodal Attendance & Engagement Agent
 
-An AI-powered, privacy-preserving classroom intelligence system built as a capstone project for the Generative AI course.
 
 ## Project Overview
 The system integrates computer vision, audio signal processing, and agent-based reasoning to automate attendance tracking, analyze engagement dynamics, and provide AI-driven teaching suggestions[cite: 1].
